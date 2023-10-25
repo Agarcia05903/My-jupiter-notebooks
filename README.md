@@ -1,1 +1,1 @@
-# My-jupiter-notebooks
+# My-jupyter-notebooks
